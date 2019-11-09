@@ -23,7 +23,7 @@ public class Base {
 		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"//src//main//java//resources//chromedriver.exe");
 		driver=new ChromeDriver();
 		
-		driver.get(prop.getProperty("URL"));
+		//driver.get(prop.getProperty("URL"));
 		
 		return driver;
 		
