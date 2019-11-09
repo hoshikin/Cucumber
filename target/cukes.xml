@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="33.327678">
-<testcase classname="Search GreenKart and place order for Vegetables" name="Search for items and then go to Checkout page" time="33.327678">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="33.667369">
+<testcase classname="Search GreenKart and place order for Vegetables" name="Search for items and then go to Checkout page" time="33.667369">
 <system-out><![CDATA[Given User is in on GreenKart Landing page..................................passed
 When User searched for "Brinjal" vegetable..................................passed
 And Added items to cart.....................................................passed

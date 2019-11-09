@@ -17,7 +17,7 @@ public class Base {
 	public static WebDriver getDriver() throws IOException {
 		
 		//Below code is to set the path of env.properties variables into your current project directory
-		FileInputStream fis=new FileInputStream(System.getProperty("user.dir")+"//src//main//java//resources//global.properties");
+		FileInputStream fis=new FileInputStream(System.getProperty("user.dir")+"//src////main//java//resources//global.properties");
 		prop.load(fis);
 		
 		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"//src//main//java//resources//chromedriver.exe");
