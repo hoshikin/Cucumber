@@ -1,0 +1,6 @@
+stepDefinitions\Hooks.class
+stepDefinitions\stepDefinition_Signup_data_table.class
+stepDefinitions\stepDefinition_Parameterization.class
+cucumberOptions\TestRunner.class
+stepDefinitions\stepDefinition.class
+stepDefinitions\stepDefinition_Search.class

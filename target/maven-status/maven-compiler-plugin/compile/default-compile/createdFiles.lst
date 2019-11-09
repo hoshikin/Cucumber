@@ -1,0 +1,5 @@
+pageObjects\Checkoutpage.class
+resources\App.class
+pageObjects\Homepage.class
+resources\Base.class
+resources\ExtentReporterNG.class
